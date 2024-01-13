@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/samar-khajuria-b70591264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samar-khajuria-b70591264" height="30" width="40" /></a>
 <a href="https://instagram.com/summerrrr28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="summerrrr28" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@summer5807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@summer5807" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
