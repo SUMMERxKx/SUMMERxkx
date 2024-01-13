@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Samar</h1>
-<h3 align="center">A passionate programmer from India Currently studying in Canada</h3>
+<h3 align="center">Part-Time Wanna Be Gamer Full-Time Programmer</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🔭 I’m currently working on **Java and Web Development**
 
-- 💬 Ask me about **Games**
+- 🌱 I’m currently learning **Web Development And Data Structures**
+
+- 👯 I’m looking to collaborate on **Programming Projects**
+
+- 🤝 I’m looking for help with **Frameworks**
+
+- 💬 Ask me about **Games and Movies**
 
 - 📫 How to reach me **samar.k.khajuria@gmail.com**
 
@@ -11,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bjbet443mtrwcq8fqendzwa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bjbet443mtrwcq8fqendzwa%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/summerrrr28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="summerrrr28" height="30" width="40" /></a>
 </p>
 
