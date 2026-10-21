@@ -1,16 +1,20 @@
-### hey, i'm samar
+<div align="center">
+<img src="assets/runner.svg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=46&duration=4000&pause=300&color=FF7A1A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1100&height=140&lines=hey+hey;i'm+samar%2C+i+build+stuff" width="70%" />
+<br><br>
+<pre>
+    🎓 student @ TRU
+    💻 full-stack apps • small tools • whatever i get curious about
+    🏃 running • too much garmin data
+    🏎️ F1 • max verstappen fan
+    🌐 samarxkx.dev
+</pre>
+<br>
+<img src="assets/stripe.svg" height="40" />
+<br><br>
 
-student at TRU. i build stuff, mostly for fun, sometimes for class.
-
-done a few co-ops so far, at the university and WorkSafeBC. the rest of the time it's side projects.
-
-some things in here:
-
-- [garmin-dashboard](https://github.com/SUMMERxKx/garmin-dashboard): my watch data on AWS, trying to figure out what i actually burn
-- [WristDungeon](https://github.com/SUMMERxKx/WristDungeon): a tiny dungeon crawler that runs on a garmin watch
-- [YapMap](https://github.com/SUMMERxKx/YapMap): app for talking to people in real life. ironic, i know
-- [TruHackathon](https://github.com/SUMMERxKx/TruHackathon): SlopGPT, an AI chat run by middle management
-
-more at [samarxkx.dev](https://samarxkx.dev)
-
-[linkedin](https://linkedin.com/in/samar-khajuria-b70591264) · [instagram](https://instagram.com/summerrrr28) · samar.k.khajuria@gmail.com
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/samar-khajuria-b70591264)
+[![](https://img.shields.io/badge/instagram-e4405f)](https://instagram.com/summerrrr28)
+[![](https://img.shields.io/badge/samarxkx.dev-ff7a1a)](https://samarxkx.dev)
+[![](https://img.shields.io/badge/email-8a8f98)](mailto:samar.k.khajuria@gmail.com)
+</div>
