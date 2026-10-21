@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" width="240" height="40" role="img" aria-label="racing stripe">
+  <style>
+    .lane { fill: #ff7a1a; animation: slide 1.2s ease-in-out infinite alternate; }
+    .lane.b { fill: #8a8f98; animation-delay: 0.2s; }
+    .lane.c { animation-delay: 0.4s; }
+    @keyframes slide { from { transform: translateX(-12px); opacity: 0.5; } to { transform: translateX(12px); opacity: 1; } }
+  </style>
+  <rect class="lane" x="40" y="8" width="160" height="5" rx="2.5" />
+  <rect class="lane b" x="60" y="18" width="120" height="5" rx="2.5" />
+  <rect class="lane c" x="80" y="28" width="80" height="5" rx="2.5" />
+</svg>

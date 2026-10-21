@@ -1,60 +1,19 @@
-<h1 align="center">Hi 👋, I'm Samar Khajuria</h1>
-<h3 align="center">I like building things, chasing challenges, and learning as I go.</h3>
+<div align="center">
+<img src="assets/runner.svg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=46&duration=4000&pause=300&color=FF7A1A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1100&height=140&lines=hey+hey;i'm+samar%2C+i+build+stuff" width="70%" />
+<br><br>
+<pre>
+    🎓 student @ TRU
+    💻 full-stack apps • small tools • whatever i get curious about
+    🏃 running
+    🏎️ F1 • max verstappen fan
+</pre>
+<br>
+<img src="assets/stripe.svg" height="40" />
+<br><br>
 
----
-
-### 👋 Hello
-
-I’m **Samar Khajuria**.  
-I enjoy building full-stack products, experimenting with AI-driven ideas, and constantly pushing myself to learn new things.  
-Most of my projects start with curiosity — and end with something useful (or at least interesting).
-
----
-
-### 🧭 What I’m focused on
-
-- Building end-to-end products and side projects  
-- Exploring how AI can make everyday work easier  
-- Learning through challenges, experiments, and breaking things  
-- Collaborating with people who enjoy building
-
----
-
-### 🚀 What you can expect from me
-
-**AI-first thinking**  
-I like exploring how intelligent systems can quietly improve workflows and user experiences.
-
-**End-to-end building**  
-From rough ideas to something people can actually use — I enjoy seeing things through.
-
-**Thoughtful collaboration**  
-Clear communication, clean docs, and being easy to work with matter to me.
-
----
-
-### 🧩 Projects
-
-Most of my work lives here on GitHub — side projects, experiments, and things I’m actively improving.
-
-👉 **Check out my portfolio:**  
-🌐 https://samarxkx.dev
-
----
-
-### 🤝 Let’s connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/samar-khajuria-b70591264" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/summerrrr28" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
-
-📫 **Email:** samar.k.khajuria@gmail.com  
-
----
-
-⚡ **Fun fact:** I love challenges — especially the kind that teach me something new.
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/samar-khajuria-b70591264)
+[![](https://img.shields.io/badge/instagram-e4405f)](https://instagram.com/summerrrr28)
+[![](https://img.shields.io/badge/samarxkx.dev-ff7a1a)](https://samarxkx.dev)
+[![](https://img.shields.io/badge/email-8a8f98)](mailto:samar.k.khajuria@gmail.com)
+</div>
