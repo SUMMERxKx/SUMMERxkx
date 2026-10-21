@@ -5,8 +5,7 @@
 <pre>
     🎓 student @ TRU
     💻 full-stack apps • small tools • whatever i get curious about
-    🏃 running
-    🏎️ F1 • max verstappen fan
+    
 </pre>
 <br>
 <img src="assets/stripe.svg" height="40" />
