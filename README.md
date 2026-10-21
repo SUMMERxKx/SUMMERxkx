@@ -5,9 +5,8 @@
 <pre>
     🎓 student @ TRU
     💻 full-stack apps • small tools • whatever i get curious about
-    🏃 running • too much garmin data
+    🏃 running
     🏎️ F1 • max verstappen fan
-    🌐 samarxkx.dev
 </pre>
 <br>
 <img src="assets/stripe.svg" height="40" />
